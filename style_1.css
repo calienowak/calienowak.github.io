@@ -35,6 +35,10 @@ h3.Resume{
 }
 h3.School_header{
 	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 30px;
+}
+ul.Resume{
+	font-family: "Times New Roman", Georgia, Serif;
 	font-size: 20px;
 }
 /*Bio*/
