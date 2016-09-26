@@ -22,7 +22,7 @@ h1.Resume{
 	font-family: "Times New Roman", Georgia, Serif;
 	font-size: 50px;
 	color: black;
-	margin-right: 10%;
+	padding-left: 5px;
 }
 .bio {
 	font-family: "Times New Roman", Georgia, Serif;
