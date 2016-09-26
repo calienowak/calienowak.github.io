@@ -1,9 +1,9 @@
 body {
 	background-color: #f2e6ff;
 }
-h1 {
+h1.Index_h1 {
 	font-family: "Times New Roman", Georgia, Serif;
-	font-size: 24px;
+	font-size: 40px;
 	color: black;
 	text-align: center;
 }
@@ -17,6 +17,12 @@ p.r_and_b {
 	color: black;
 	text-align: center;
 
+}
+h1.Resume{
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 40 px;
+	color: black;
+	margin-left: 10%;
 }
 .bio {
 	font-family: "Times New Roman", Georgia, Serif;
