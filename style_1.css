@@ -1,3 +1,4 @@
+/*Index.html*/
 body {
 	background-color: #f2e6ff;
 }
@@ -16,16 +17,23 @@ p.r_and_b {
 	font-size: 20px;
 	color: black;
 	text-align: center;
-
 }
-body.Resume{
-	padding-left: 40px;
-}
+/*Bio and Resume*/
 h1{
 	font-family: "Times New Roman", Georgia, Serif;
 	font-size: 50px;
 	color: black;
 }
+/*Resume*/
+body.Resume{
+	padding-left: 40px;
+}
+h3.Resume{
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 20px;
+	text-decoration: underline;
+}
+/*Bio*/
 body.Bio{
 	padding-left: 40px;
 }
